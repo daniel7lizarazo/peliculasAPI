@@ -11,8 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peliculas.Infraestructure",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peliculas.Application", "Peliculas.Application\Peliculas.Application.csproj", "{A18B7625-14E9-40B4-B607-F13945337B5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peliculas.Test", "Peliculas.Test\Peliculas.Test.csproj", "{29673FE5-C068-4D4A-998F-E795050B0783}"
-EndProject
+//Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Peliculas.Test", "Peliculas.Test\Peliculas.Test.csproj", "{29673FE5-C068-4D4A-998F-E795050B0783}"
+//EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
