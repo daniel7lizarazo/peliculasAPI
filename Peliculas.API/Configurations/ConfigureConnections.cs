@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Peliculas.Infraestructure.Context;
+﻿//using Microsoft.EntityFrameworkCore;
+//using Peliculas.Infraestructure.Context;
 
 namespace Peliculas.API.Configurations
 {
@@ -16,15 +16,15 @@ namespace Peliculas.API.Configurations
         /// <param name="configuration">Configuration.</param>
         public static IServiceCollection AddConnectionProvider(this IServiceCollection services, IConfiguration configuration)
         {
-            string conexionString = configuration.GetConnectionString("DefaultConnection");
-            services.AddDbContextPool<PeliculasContext>(options => options.UseSqlServer(conexionString,
-                sqlServerOptionsAction: sqlOptions =>
-                {
-                    sqlOptions.EnableRetryOnFailure(
-                    maxRetryCount: 7,
-                    maxRetryDelay: TimeSpan.FromSeconds(10),
-                    errorNumbersToAdd: null);
-                }));
+            //string conexionString = configuration.GetConnectionString("DefaultConnection");
+            //services.AddDbContextPool<PeliculasContext>(options => options.UseSqlServer(conexionString,
+            //    sqlServerOptionsAction: sqlOptions =>
+            //    {
+            //        sqlOptions.EnableRetryOnFailure(
+            //        maxRetryCount: 7,
+            //        maxRetryDelay: TimeSpan.FromSeconds(10),
+            //        errorNumbersToAdd: null);
+            //    }));
 
             return services;
         }
