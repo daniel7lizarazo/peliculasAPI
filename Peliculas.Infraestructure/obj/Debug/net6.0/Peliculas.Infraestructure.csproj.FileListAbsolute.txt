@@ -1,0 +1,17 @@
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\bin\Debug\net6.0\Peliculas.Infraestructure.deps.json
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\bin\Debug\net6.0\Peliculas.Infraestructure.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\bin\Debug\net6.0\ref\Peliculas.Infraestructure.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\bin\Debug\net6.0\Peliculas.Infraestructure.pdb
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\bin\Debug\net6.0\Peliculas.Application.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\bin\Debug\net6.0\Peliculas.Domain.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\bin\Debug\net6.0\Peliculas.Application.pdb
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\bin\Debug\net6.0\Peliculas.Domain.pdb
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\Peliculas.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\Peliculas.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\Peliculas.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\Peliculas.Infraestructure.AssemblyInfo.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\Peliculas.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\Peliculas.Infraestructure.csproj.CopyComplete
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\Peliculas.Infraestructure.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\ref\Peliculas.Infraestructure.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\obj\Debug\net6.0\Peliculas.Infraestructure.pdb

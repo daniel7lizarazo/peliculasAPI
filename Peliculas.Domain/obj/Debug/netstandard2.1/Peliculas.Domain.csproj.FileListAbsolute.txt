@@ -1,0 +1,10 @@
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\bin\Debug\netstandard2.1\Peliculas.Domain.deps.json
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\bin\Debug\netstandard2.1\Peliculas.Domain.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\bin\Debug\netstandard2.1\Peliculas.Domain.pdb
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\Peliculas.Domain.csproj.AssemblyReference.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\Peliculas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\Peliculas.Domain.AssemblyInfoInputs.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\Peliculas.Domain.AssemblyInfo.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\Peliculas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\Peliculas.Domain.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\Peliculas.Domain.pdb

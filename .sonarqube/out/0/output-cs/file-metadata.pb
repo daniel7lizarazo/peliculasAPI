@@ -1,0 +1,9 @@
+|
+sC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Attributes\EntityAttribute.csutf-8q
+hC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Entities\Entity.csutf-8{
+rC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Entities\ImagenesPelicula.csutf-8s
+jC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Entities\Pelicula.csutf-8
+vC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Repository\IAlmacenarArchivos.csutf-8x
+oC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Repository\IRepository.csutf-8™
+ûC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8õ
+èC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\obj\Debug\netstandard2.1\Peliculas.Domain.AssemblyInfo.csutf-8

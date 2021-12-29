@@ -1,0 +1,6 @@
+﻿C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Attributes\EntityAttribute.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Entities\Entity.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Entities\ImagenesPelicula.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Entities\Pelicula.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Repository\IAlmacenarArchivos.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Domain\Repository\IRepository.cs

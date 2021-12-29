@@ -1,0 +1,4 @@
+﻿C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\AlmacenadorArchivosLocal.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\Context\PeliculasContext.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\EFCoreRepository.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Infraestructure\MemoryRepository.cs

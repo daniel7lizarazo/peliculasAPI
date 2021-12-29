@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.API\\Peliculas.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.API\\Peliculas.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.API\\Peliculas.API.csproj",
+        "projectName": "Peliculas.API",
+        "projectPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.API\\Peliculas.API.csproj",
+        "packagesPath": "C:\\Users\\rafap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Application\\Peliculas.Application.csproj": {
+                "projectPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Application\\Peliculas.Application.csproj"
+              },
+              "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Infraestructure\\Peliculas.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Infraestructure\\Peliculas.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Application\\Peliculas.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Application\\Peliculas.Application.csproj",
+        "projectName": "Peliculas.Application",
+        "projectPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Application\\Peliculas.Application.csproj",
+        "packagesPath": "C:\\Users\\rafap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Domain\\Peliculas.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Domain\\Peliculas.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Domain\\Peliculas.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Domain\\Peliculas.Domain.csproj",
+        "projectName": "Peliculas.Domain",
+        "projectPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Domain\\Peliculas.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Infraestructure\\Peliculas.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Infraestructure\\Peliculas.Infraestructure.csproj",
+        "projectName": "Peliculas.Infraestructure",
+        "projectPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Infraestructure\\Peliculas.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\rafap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Application\\Peliculas.Application.csproj": {
+                "projectPath": "C:\\Users\\rafap\\source\\repos\\ClasesDavid\\ActividadFinal\\Peliculas.API\\Peliculas.Application\\Peliculas.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

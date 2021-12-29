@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Peliculas.Infraestructure/1.0.0": {
+        "dependencies": {
+          "Peliculas.Application": "1.0.0"
+        },
+        "runtime": {
+          "Peliculas.Infraestructure.dll": {}
+        }
+      },
+      "Peliculas.Application/1.0.0": {
+        "dependencies": {
+          "Peliculas.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Peliculas.Application.dll": {}
+        }
+      },
+      "Peliculas.Domain/1.0.0": {
+        "runtime": {
+          "Peliculas.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Peliculas.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Peliculas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Peliculas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

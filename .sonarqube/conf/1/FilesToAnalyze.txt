@@ -1,0 +1,6 @@
+﻿C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\DTOs\ImagenPeliculaDTO.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Implementations\CrudService.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Implementations\ImagenPeliculaService.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Interfaces\ICrudService.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Interfaces\IImagenPeliculaService.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Utils\AppVariables.cs

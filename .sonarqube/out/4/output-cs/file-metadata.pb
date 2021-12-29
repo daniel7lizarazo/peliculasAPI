@@ -1,0 +1,11 @@
+Ç
+yC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\Configurations\ConfigureConnections.csutf-8É
+zC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\Configurations\ServicesConfiguration.csutf-8y
+pC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\Controllers\BaseController.csutf-8É
+zC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\Controllers\ImagenPeliculaController.csutf-8}
+tC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\Controllers\PeliculaController.csutf-8f
+]C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\Program.csutf-8è
+ÉC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\obj\Debug\net6.0\Peliculas.API.GlobalUsings.g.csutf-8û
+íC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8ç
+ÅC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\obj\Debug\net6.0\Peliculas.API.AssemblyInfo.csutf-8†
+îC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.API\obj\Debug\net6.0\Peliculas.API.MvcApplicationPartsAssemblyInfo.csutf-8

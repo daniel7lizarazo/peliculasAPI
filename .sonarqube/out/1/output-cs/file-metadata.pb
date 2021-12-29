@@ -1,0 +1,9 @@
+}
+tC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\DTOs\ImagenPeliculaDTO.csutf-8Ç
+yC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Implementations\CrudService.csutf-8ç
+ÉC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Implementations\ImagenPeliculaService.csutf-8~
+uC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Interfaces\ICrudService.csutf-8à
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Interfaces\IImagenPeliculaService.csutf-8y
+pC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\Utils\AppVariables.csutf-8Ø
+£C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\.NETStandard,Version=v2.1.AssemblyAttributes.csutf-8•
+ôC:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.AssemblyInfo.csutf-8

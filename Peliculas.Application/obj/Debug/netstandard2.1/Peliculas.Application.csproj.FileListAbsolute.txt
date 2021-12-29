@@ -1,0 +1,13 @@
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\bin\Debug\netstandard2.1\Peliculas.Application.deps.json
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\bin\Debug\netstandard2.1\Peliculas.Application.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\bin\Debug\netstandard2.1\Peliculas.Application.pdb
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\bin\Debug\netstandard2.1\Peliculas.Domain.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\bin\Debug\netstandard2.1\Peliculas.Domain.pdb
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.csproj.AssemblyReference.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.AssemblyInfoInputs.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.AssemblyInfo.cs
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.csproj.CoreCompileInputs.cache
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.csproj.CopyComplete
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.dll
+C:\Users\rafap\source\repos\ClasesDavid\ActividadFinal\Peliculas.API\Peliculas.Application\obj\Debug\netstandard2.1\Peliculas.Application.pdb
